@@ -6,10 +6,10 @@ s.description      = <<-DESC
                   Realize the wireless broadcast function     
                         DESC
  
-s.homepage         = 'https://github.com/JiMengfei/FFWheelView'
+s.homepage         = 'https://github.com/JiMengfei/FFWheelView.git'
 s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'JiMengfei' => '726616682@qq.com' }
-s.source           = { :git => 'https://github.com/JiMengfei/FFWheelView', :tag => s.version.to_s }
+s.source           = { :git => 'https://github.com/JiMengfei/FFWheelView.git', :tag => s.version.to_s }
 s.ios.deployment_target = '9.0' 
 s.source_files = 'FFWheelView/*' 
 end
