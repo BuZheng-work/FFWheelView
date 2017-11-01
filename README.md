@@ -14,7 +14,7 @@ pod FFWheelView
     func wheel(_ itemInWheelView:FFWheelView,dataToItem item:FFWheelImageItemView,forIndex index:Int)
 		
   eg:
-	extension ViewController:FFWheelViewDataSources{
+extension ViewController:FFWheelViewDataSources{
     
     func wheel(_ numberInWheelView: FFWheelView) -> Int {
         
