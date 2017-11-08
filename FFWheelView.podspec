@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'FFWheelView' 
-s.version          = '0.0.1' 
+s.version          = '0.0.2' 
 s.summary          = 'the first FFWheelView version commit'  
 s.description      = <<-DESC
                   Realize the wireless broadcast function     
